@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-ocean.tmTheme",
+	"draw_indent_guides": false,
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"remember_open_files": true,
+	"tab_size": 3,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": false
+}
